@@ -1,0 +1,40 @@
+body{
+    background-color: #f9fafc;
+    font-family: 'Open Sans', sans-serif;
+}
+#border{
+    margin-left: auto;
+}
+
+#nav{
+    color: #69696a;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+  }
+
+  li a {
+    display: block;
+    width: 80px;
+    padding: 4px;
+    color: #69696a;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color:#69696a;
+  }
+
+.button{
+    background-color: #000000;
+    color: #fff;
+    border-radius: 15px;
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline-block;
+    text-align: center;
+}
